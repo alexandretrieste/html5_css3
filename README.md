@@ -2,3 +2,4 @@
 # repositório de exemplo para alunos do ensino médio
 ## alguns teste de tags HTML e CSS para ensino
 ### adição de conteúdo gradual
+### adição de bootstrap
